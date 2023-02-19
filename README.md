@@ -4,14 +4,14 @@ This is a microservice project, and you need JDK 11+ and Grandle 7.4.2 setup to 
 ## How to build and run the project
 
 To build the project
-	./gradlew build 
-	./gradlew clean build
+*	./gradlew build 
+*	./gradlew clean build
 	
 To import to eclipse IDE
-	./gradlew eclipse
+*	./gradlew eclipse
 
 To run the service
-	./gradlew bootRun
+*	./gradlew bootRun
 
 API document will be generated with service creation. Please brower following API document URL once the service is up and running.
 http://localhost:8080/swagger-ui.html#/
