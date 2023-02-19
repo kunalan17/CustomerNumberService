@@ -19,7 +19,7 @@ http://localhost:8080/swagger-ui.html#/
 ## Testing
 
 To build the test report
-**	./gradlew build jacocoTestReport
+*	./gradlew build jacocoTestReport
 	
 Sample static JSON data is added inside following path, and you can use to test the APIs.
-**	src -> main -> resources -> static-data -> customer-numbers.json
+*	src -> main -> resources -> static-data -> customer-numbers.json
