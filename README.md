@@ -25,4 +25,4 @@ Sample static JSON data is added inside following path, and you can use to test 
 *	src -> main -> resources -> static-data -> customer-numbers.json 
 
 Test report will be generated into following location
-*	<workspace>/CustomerNumberService/build/reports/tests/test/index.html
+*	<<workspace>>/CustomerNumberService/build/reports/tests/test/index.html
