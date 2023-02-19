@@ -1,5 +1,5 @@
-# CustomerNumberService APIs
-This is a microservice project, and you need JDK 11+ and Grandle 7.4.2 setup to run this service.
+# CustomerNumberService APIs 
+This is a microservice project. You need JDK 11+ and Grandle 7.4.2 installed to run this service.
 
 ## How to build and run the project
 
